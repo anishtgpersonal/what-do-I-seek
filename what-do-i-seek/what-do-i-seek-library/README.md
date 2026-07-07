@@ -1,3 +1,0 @@
-# Library
-
-Knowledge library.
